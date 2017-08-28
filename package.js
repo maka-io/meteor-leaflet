@@ -12,7 +12,8 @@ Npm.depends({
   "leaflet.markercluster": "1.0.2",
   "leaflet-providers": "1.1.16",
   "leaflet-spin": "1.1.0",
-  "spin.js": "2.3.2"
+  "spin.js": "2.3.2",
+  "leaflet-rotatedmarker": "0.2.0"
 });
 
 Package.onUse(function (api) {
